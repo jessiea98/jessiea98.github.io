@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="styles.css">
+    <title>
+      Jessie Anderson's Resume
+    </title>
+    <h1> Jessie Anderson </h1>
+<img src="resume_pic.jpg" width="300">
+</head>
+  <!-- <body> I built this myself! -->
+<ul>
+  <li> janders6@terpmail.umd.edu </li>
+  <li> <a href="https://www.linkedin.com/in/jessica-anderson-391894132/"> LinkedIn </a></li>
+  <li> <a href="https://twitter.com/jessiekyliee"> Twitter </a></li>
+  <li> <a href="https://github.com/jessiea98"> Github </a></li>
+</ul>
+
+<strong> Motivated and experienced student </strong>
+  <p> I am a junior journalism major and business minor at the University of Maryland.
+I was a writer and producer for UMD's radio station WMUC News for a year. </p>
+
+  <p> I am more interested in writing and hope to work in public relations. </p>
+
+<h2> Experience </h2>
+
+<h3> Event Support </h3>
+<h4> Adele H. Stamp Student Union </h4>
+<h5> January 2020 - Current </h5>
+  <p> I help set up events that happen on campus in Adele H. Stamp Student Union.
+I communicate with my team and get the materials needed for each room such as tables or chairs.
+  </p>
+
+
+<h3> Communications Intern </h3>
+<h4> Architect of the Capitol </h4>
+<h5> June 2018 - August 2019 </h5>
+  <p> I used Adobe Illustrator to modify building maps and edit room numbers for future Cannon Building signage,
+organized project images in the AOC’s digital asset management website, conducted research projects on historic rooms and artifacts,
+interviewed technical experts, examined archival documents and investigated online resources.
+I assisted project architects and engineers by examining construction progress, noting deficiencies and leading project stakeholders on site walks.
+I facilitated construction site tours with members of Congress, and proofread information sheets regarding information about the project.
+  </p>
+
+
+
+<h2> Education </h2>
+  <ul>
+    <li> Junior, Major in Journalism, Minor in Business, University of Maryland, Expected Graduation May 2021 </li>
+  </ul>
+
+<h2> Skills </h2>
+  <ul>
+    <li> Adobe Illustrator </li>
+    <li> Adobe Photoshop </li>
+    <li> Microsoft Word </li>
+    <li> Microsoft PowerPoint </li>
+    <li> Microsoft Excel </li>
+    <li> Basic HTML and CSS </li>
+  </ul>
+
+
+
+
+
+  </body>
+</html>
